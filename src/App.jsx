@@ -1,5 +1,4 @@
 import React, { useEffect, useRef ,useState,useMemo } from "react";
-import User1 from "./Component/User1";
 import { ZIM } from "zego-zim-web";
 import { ZegoUIKitPrebuilt } from "@zegocloud/zego-uikit-prebuilt";
 
